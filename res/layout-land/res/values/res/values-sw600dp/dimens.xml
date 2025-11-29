@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="padding_general">32dp</dimen>
+    <dimen name="titulo_text_size">32sp</dimen>
+    <dimen name="button_padding">16dp</dimen>
+    <dimen name="edit_padding">14dp</dimen>
+    <dimen name="margin_top_large">32dp</dimen>
+    <dimen name="margin_top_medium">24dp</dimen>
+</resources>
